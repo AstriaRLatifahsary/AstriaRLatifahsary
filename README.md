@@ -1,4 +1,15 @@
 ### Hi there 👋
+Hallo nama saya Astria Rizka Latifahsary, saya lahir di Bandung, 31 Januari 2005. Saya adalah anak ke tiga dari tiga bersaudara. Saya sekarang sedang menempuh pendidikan di perguruan tinggi negeri Politeknik Negeri Bandung dengan Jurusan Teknik Komputer dan Informatika Prodi D4 Teknik Informatika. Saya memiliki hobi bernyanyi, di kampus saya mengikuti UKM Paduan Suara Mahasiswa.
+
+Teknologi yang saya kuasai mungkin sekaranng saya belum sangat menguasai, namun saya sedang mempelajari bahasa C dan Java.
+
+Proyek yang saya kerjakan yaitu TUBES membuat TICTACTOE
+
+Anda bisa menghubunngi saya di bawah ini !!
+- Whatsapp : 088802251650
+- Instagram : @assrzk_
+- Email : astriarizkalatifahsary@gmail.com
+
 
 <!--
 **AstriaRLatifahsary/AstriaRLatifahsary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
